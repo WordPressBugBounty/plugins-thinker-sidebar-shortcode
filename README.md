@@ -1,0 +1,1 @@
+# plugins-thinker-sidebar-shortcode
